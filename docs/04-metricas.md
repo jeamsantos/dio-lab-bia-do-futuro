@@ -53,10 +53,11 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+- Recomendações de acordo com o perfil
+- Consulta ao histórico de transações
 
 **O que pode melhorar:**
-- [Liste aqui]
+- Performance
 
 ---
 
